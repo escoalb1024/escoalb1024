@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @escoalb1024
-- 👀 I’m interested in gameDev and making software unique.
-- 🌱 I’m currently learning Unity and vibe-coding.
-- 💞️ I’m looking to collaborate on software with a soul.
-- 📫 How to reach me not sure yet
+- 👋 Hi, I’m Albert. I'm a product builder who works on software with a soul. I love humanizing tech and creating great experiences.
 
 <!---
 escoalb1024/escoalb1024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
